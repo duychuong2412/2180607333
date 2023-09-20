@@ -1,3 +1,6 @@
 tên:Đỗ Duy Chương
 lớp:21DTHD2
 Mssv:2180607333
+tên:Trần Quốc Chí
+lớp:21DTHD2
+Mssv:2180607326
