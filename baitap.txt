@@ -1,3 +1,7 @@
 tên:Đỗ Duy Chương
 lớp:21DTHD2
 Mssv:2180607333
+
+tên : Đỗ Quang Chính
+lớp : 21DTHD2
+MSSV : 2180607329
