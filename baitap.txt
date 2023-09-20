@@ -1,3 +1,7 @@
 tên:Đỗ Duy Chương
 lớp:21DTHD2
 Mssv:2180607333
+
+tên: Đặng Bá Công
+lớp: 21DTHD2
+Mssv: 2180607336
