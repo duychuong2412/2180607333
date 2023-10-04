@@ -1,5 +1,5 @@
 # 2180607333
-| Value Statement     | Description |
+| Title                | Quickly search for items |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Value Statement      | As a user I want to find the item I need quickly    |
+| Acceptance Criteria  |       |
