@@ -1,4 +1,5 @@
-| Syntax      | Description |
+
+| Title     |Favorite item rating chart |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Value Statement    | As a user i want to know the favorite item rating chart    |
+| Acceptance Criteria  |       |
