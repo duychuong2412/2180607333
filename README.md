@@ -3,4 +3,9 @@
 | ----------- | ----------- |
 | Value Statement      | As a user I want to find the item I need quickly    |
 | Acceptance Criteria  | Acceptance Criteria 1: Need valid customer information (name, address, phone number)  <br> Acceptance Criteria 2: Once the system is up and running, you want the search portal to produce products that meet customer requirements  |
-| Definition of Done   |  |
+| Definition of Done   |  +Unit tests passed
+                          +Code reviewed
+                          +Acceptance criteria met
+                          +Functional tests passed
+                          +Non-Functional requirements met
+                          +Product Owner accepts the User Story|
