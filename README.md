@@ -1,5 +1,5 @@
 # 2180607333
-| Syntax      | Description |
+| Value Statement     | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
